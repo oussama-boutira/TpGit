@@ -2,7 +2,7 @@
 
 A premium, modern landing page built for a fictional next-gen AI infrastructure platform.
 
-## ✨ Features
+## Features
 
 **🔗 Demo**: [Live Landing Page](https://oussama-boutira.github.io/TpGit/aether-ai-landing/)
 
